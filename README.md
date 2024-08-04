@@ -19,7 +19,7 @@ Follow these steps to install the Yuki terminal theme on your macOS:
    - Open Terminal.
    - Run the following command to clone the repository:
      ```bash
-     git clone https://github.com/yourusername/yuki-terminal-theme.git
+     git clone https://github.com/holasoymalva/yuki-terminal-theme.git
      ```
 
 ### Installing the Theme
